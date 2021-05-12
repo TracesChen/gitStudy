@@ -106,4 +106,4 @@
 
 十二、本文参考：
     1、狂神聊Git：https://www.bilibili.com/video/BV1FE411P7B3?share_source=copy_web
-    2、托管代码平台：码云gitee官网中Git大全：地址https://gitee.com/all-about-git
+    2、托管代码平台：码云gitee官网中Git大全，附带访问地址：https://gitee.com/all-about-git
